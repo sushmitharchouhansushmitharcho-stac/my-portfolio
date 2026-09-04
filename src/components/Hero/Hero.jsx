@@ -15,7 +15,7 @@ function Hero() {
     return (
         <section className="hero-section">
             <div className="hero-content">
-                <h1>{greeting}, I'm <span className="highlight">Rakesh K R</span> 👋</h1>
+                <h1>{greeting}, I'm <span className="highlight">Sushmitha R Chouhan</span> 👋</h1>
                 <p className="tagline">I build beautiful, fast, accessible websites. And deploy it on vercel.</p>
                 
                 <div className="hero-buttons">
