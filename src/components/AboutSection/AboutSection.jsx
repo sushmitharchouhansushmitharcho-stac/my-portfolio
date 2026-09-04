@@ -9,7 +9,7 @@ function AboutSection() {
         </div>
         <div className='about-copy'>
           <h1>About Me</h1>
-          <p>Hi! I'm Sushmitha R Chouhan, a developer based in India building fast, accessible web experiences.</p>
+          <p>Hi! Good Morning, I'm Sushmitha R Chouhan, a developer based in India building fast, accessible web experiences. I create modern,responsive, and user-friendly websites using HTML, CSS, JavaScript, React. I enjoy turning ideas into beautiful web experiences</p>
         </div>
       </div>
     </section>
